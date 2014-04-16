@@ -1,0 +1,27 @@
+Name: myfirstcart
+Cartridge-Short-Name: MYFIRSTCART
+Display-Name: My first cart 14.3
+Version: '14.3'
+Versions:
+  - '14.3'
+Website: https://github.com/logicminds/myfirstcart
+Cartridge-Version: '0.0.1'
+Cartridge-Vendor: Corey Osman
+Description: "This is my first cart application"
+License: "LGPL"
+License-Url: http://www.lgpl.org/license/3_0.txt
+Vendor: LGPL
+descriptive: 'custom'
+Categories:
+  - plugin
+  - embedded
+Group-Overrides:
+- components:
+  - web_framework
+  - myfirstcart
+Scaling:
+  Min: 1
+  Max: -1
+Provides:
+  - myfirstcart
+Source-Url: https://github.com/logicminds/myfirstcart/archive/master.git
