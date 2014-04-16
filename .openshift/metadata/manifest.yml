@@ -4,7 +4,7 @@ Display-Name: My first cart 14.3
 Version: '14.3'
 Versions:
   - '14.3'
-Website: https://github.com/logicminds/myfirstcart
+Website: https://github.com/logicminds/testcartridge
 Cartridge-Version: '0.0.1'
 Cartridge-Vendor: Corey Osman
 Description: "This is my first cart application"
@@ -24,4 +24,4 @@ Scaling:
   Max: -1
 Provides:
   - myfirstcart
-Source-Url: https://github.com/logicminds/myfirstcart/archive/master.git
+Source-Url: https://github.com/logicminds/testcartridge/archive/master.zip 
